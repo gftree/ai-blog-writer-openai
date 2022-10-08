@@ -1,6 +1,9 @@
-##OPEN API STUFF...
-OPENAI_API_KEY = 'xxxxxyyyyyx___enter-api-key'
 
+import os
+
+##OPEN API STUFF
+#OPENAI_API_KEY = 'enter-api-key'
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 
 
 ## FLASK STUFF
