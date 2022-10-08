@@ -1,4 +1,4 @@
-##OPEN API STUFF
+##OPEN API STUFF...
 OPENAI_API_KEY = 'enter-api-key'
 
 
